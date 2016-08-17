@@ -4,7 +4,7 @@ UI_20150317_000003	{@st59}Chiudi{/}
 UI_20150317_000004	{@st43}Impara Attributi{/}
 UI_20150317_000005	{@st59}Chiudi{/}
 UI_20150317_000006	{@st41b}Silver{/}
-UI_20150317_000007	I miei Obbiettivi
+UI_20150317_000007	I miei Obiettivi
 UI_20150317_000008	Server Ranking
 UI_20150317_000009	{@st59}Un evento inaspettato e' accaduto.{/}
 UI_20150317_000010	{@st59}C'e' un nuovo messaggio in Aiuto{/}
@@ -89,7 +89,7 @@ UI_20150317_000088	{@st43} Avanzato
 UI_20150317_000089	{@sti7}{s14} Livello {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
-UI_20150317_000092	Per. 
+UI_20150317_000092	Tutti.
 UI_20150317_000093	Tutti: /s chat {nl} Megafono: /y chat {nl} Gruppo: /p chat{nl} Sussurro: /w nome Team personaggio
 UI_20150317_000094	{@st41}Tutte le Chat{/}
 UI_20150317_000095	{@59}Esci{/}
@@ -158,7 +158,7 @@ UI_20150317_000157	Rango {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
 UI_20150317_000158	Guerriero
 UI_20150317_000159	Indice avventura {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Indice avventura {#ffff00}%s{/} ({#ffff00}non classificata{/})
-UI_20150317_000161	Obbiettivi totali : {#ffff00}%s{/}
+UI_20150317_000161	Obiettivi totali : {#ffff00}%s{/}
 UI_20150317_000162	Impostazioni
 UI_20150317_000163	Cancellare il titolo della scheda per eliminarla.
 UI_20150317_000164	{@st49}Tutti{/}
@@ -299,8 +299,8 @@ UI_20150317_000298	99 minuti 99 secondi
 UI_20150317_000299	38000 pointi
 UI_20150317_000300	Pozione velocita' incantata
 UI_20150317_000301	{@st41}Conferma{/}
-UI_20150317_000302	{@st59b} Giornale d'avventura {nl}{@st59s}- I tuoi progressi di gioco sono registrati nel Giornale d'Avventura. {nl} - Nel quale puoi controllare: strumenti ottenuti, mostri cacciati, crafting e mappe esplorate.{nl}    Indice d'Avventura : totale degli indici. {nl}    Crescita : 5 punti per livello personaggio e classe {nl}    Strumenti : Equipaggiamento : grado X 10 punti, Libri : 10 punti, Altro : 1 punto {nl}    Monstri : 10 punti per monstro (50 punti per i Boss) {nl}    Mappa : 1 punto per 10% esplorato {nl}    Quests : 1 punto per ogni quest {nl}    Obbiettivi : Varia in base all'obiettivo {nl}    Crafting : 10 punti {nl}    Collezione : 5 punti per un deck e 45 punti quando e' completo {nl} - Puoi ricevere ricompense speciali dal NPC in citta'. {/}
-UI_20150317_000303	{@sti7}{s22}{ds}Obbiettivi{/}
+UI_20150317_000302	{@st59b} Giornale d'avventura {nl}{@st59s}- I tuoi progressi di gioco sono registrati nel Giornale d'Avventura. {nl} - Nel quale puoi controllare: strumenti ottenuti, mostri cacciati, crafting e mappe esplorate.{nl}    Indice d'Avventura : totale degli indici. {nl}    Crescita : 5 punti per livello personaggio e classe {nl}    Strumenti : Equipaggiamento : grado X 10 punti, Libri : 10 punti, Altro : 1 punto {nl}    Monstri : 10 punti per monstro (50 punti per i Boss) {nl}    Mappa : 1 punto per 10% esplorato {nl}    Quests : 1 punto per ogni quest {nl}    Obiettivi : Varia in base all'obiettivo {nl}    Crafting : 10 punti {nl}    Collezione : 5 punti per un deck e 45 punti quando e' completo {nl} - Puoi ricevere ricompense speciali dal NPC in citta'. {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Obiettivi{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punti{/}
 UI_20150317_000305	{@st42b} Meta' / %s Points {/}
 UI_20150317_000306	1st / %s Punti
@@ -405,7 +405,7 @@ UI_20150317_000404	{@st41} Super-Uccisioni {/}
 UI_20150317_000405	{@st41} Uccisioni normali {/}
 UI_20150317_000406	{@st41} Area {/}
 UI_20150317_000407	{@st41} Strumenti {/}
-UI_20150317_000408	{@st41} Obbiettivi {/}
+UI_20150317_000408	{@st41} Obiettivi {/}
 UI_20150317_000409	Obiettivo
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Chiudi{/}
@@ -706,7 +706,7 @@ UI_20150317_000705	{@st41} Tutto {/}
 UI_20150317_000706	{@st41} Gruppo {/}
 UI_20150317_000707	{@st41} Mostri {/}
 UI_20150317_000708	{@st41b}{#f0dcaa}Punti Status rimasti ▶ {@st46}%s
-UI_20150317_000709	{@st59b}Le mie informazioni{nl}{@st59s}- Status : Usa i punti che ottieni livellando fino a 5 attributi status che possiedi. {nl}- Informazioni : Ti informa riguardo il tuo personaggio e l'equipaggiamento che indossi. {nl}- Titoli : I titoli si ottengono completando gli obbiettivi. {nl} {/}
+UI_20150317_000709	{@st59b}Le mie informazioni{nl}{@st59s}- Status : Usa i punti che ottieni livellando fino a 5 attributi status che possiedi. {nl}- Informazioni : Ti informa riguardo il tuo personaggio e l'equipaggiamento che indossi. {nl}- Titoli : I titoli si ottengono completando gli obiettivi. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Titoli{/}
 UI_20150317_000712	Mostra Classe
@@ -1193,9 +1193,9 @@ UI_20150317_001192	Randomicamente
 UI_20150317_001193	Cosa fare
 UI_20150317_001194	Non puoi vederlo
 UI_20150317_001195	{@st41b}Giornale d'Avventura Aggiornato
-UI_20150317_001196	Menu' Obbiettivi per le Missioni
+UI_20150317_001196	Menu' Obiettivi per le Missioni
 UI_20150317_001197	Categorie Missioni
-UI_20150317_001198	Lista Obbiettivi Missioni
+UI_20150317_001198	Lista Obiettivi Missioni
 UI_20150317_001199	N/A
 UI_20150317_001200	Line used on the roadmap
 UI_20150317_001201	Slot Object_Standard
@@ -1274,7 +1274,7 @@ UI_20150317_001273	{@Sti5}Prezzo : %s{/}
 UI_20150317_001274	{@Sti9} Missioni Gruppo (%s){/}
 UI_20150317_001275	{@st41_yellow} Esplorazione : %s% {/}
 UI_20150317_001276	{@st41_yellow} Punteggio : %s {/}
-UI_20150317_001277	{@st42b}{b}Obbiettivi{/}
+UI_20150317_001277	{@st42b}{b}Obiettivi{/}
 UI_20150317_001278	{@st59}Entra nelle Missioni di Gruppo{/}
 UI_20150317_001279	Windows
 UI_20150317_001280	Status
@@ -1437,7 +1437,7 @@ UI_20150401_001436	{@st41b}Seleziona tutto{/}
 UI_20150401_001437	{@st59}De-seleziona tutto cliccando ancora{/}
 UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{@st59}Mixxa mixxa gira e mixxa{/}
-UI_20150401_001440	{@st41b}Obbiettivi{/}
+UI_20150401_001440	{@st41b}Obiettivi{/}
 UI_20150401_001441	Colore Capigliatura
 UI_20150401_001442	Titoli Attivabili
 UI_20150401_001443	{@st41b}Controller UI{/}
@@ -1960,7 +1960,7 @@ UI_20151224_001959	Questo oggetto sparira' dal tuo inventario{nl}Resetta tutti i
 UI_20151224_001960	{@st41}Usa
 UI_20151224_001961	{@st59b}Classi{nl}{@st59s}- Puoi imparare nuove skills aumentando il Rango della tua Classe. {nl} - Puoi scegliere tra le 3 classi per avanzare dal primo Rank al secondo. {nl} - Puoi aumentare la stessa classe fino a 3 volte. {nl} - Non puoi tornare indietro una volta scelta una classe avanzata. {nl} - Devi consumare tutti i tuoi Punti Skill per classare. {nl} - Puoi scegliere la stessa classe.{nl}{@st59b}Skills{nl}{@st59s} - Puoi aumentare il livello di ogni skill fino a 5.{nl} - Attributi per le tue skills possono essere imparati dai Master NPC in citta'. {/}
 UI_20151224_001962	{@st66b}Informazioni{/}
-UI_20151224_001963	{@st66b}Obbiettivi{/}
+UI_20151224_001963	{@st66b}Obiettivi{/}
 UI_20151224_001964	{@st66b}Info{/}
 UI_20151224_001965	{@st59}Collezioni (F11){/}
 UI_20151224_001966	{@st66b}Impostazioni Tasti
@@ -2090,7 +2090,7 @@ UI_20160224_002089	{@st42b}Pergamente Correnti  : %s{/}
 UI_20160224_002090	{@st66b}Missioni{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
-UI_20160224_002093	{@st59b}Istanze Dungeons{nl}{@st59s}Luoghi dove il tuo gruppo puo' raggiungere obbiettivi indipendentemente dalle zone.{nl}Puoi creare un Gruppo prima di entrare o automticamente cercarlo.{nl} - Dungeons : Entra parlando con gli NPC nelle rispettive zone del livello.{nl} - Missioni : Entra parlando con il Receptionist al Mercenary Post a Fedimian.{nl} - Saalus Convent Missione : Entra parlando con Sister Lhasa al Saalus Convent.{nl}{/}
+UI_20160224_002093	{@st59b}Istanze Dungeons{nl}{@st59s}Luoghi dove il tuo gruppo puo' raggiungere obiettivi indipendentemente dalle zone.{nl}Puoi creare un Gruppo prima di entrare o automticamente cercarlo.{nl} - Dungeons : Entra parlando con gli NPC nelle rispettive zone del livello.{nl} - Missioni : Entra parlando con il Receptionist al Mercenary Post a Fedimian.{nl} - Saalus Convent Missione : Entra parlando con Sister Lhasa al Saalus Convent.{nl}{/}
 UI_20160224_002094	{@st59}Chiudi{/}
 UI_20160224_002095	{@st59}Mostra/Non Mostrare{/}
 UI_20160224_002096	{@st45tw2}Tempo Coda{/}
