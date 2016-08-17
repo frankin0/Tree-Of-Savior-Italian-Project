@@ -299,7 +299,7 @@ UI_20150317_000298	99 minuti 99 secondi
 UI_20150317_000299	38000 pointi
 UI_20150317_000300	Pozione velocita' incantata
 UI_20150317_000301	{@st41}Conferma{/}
-UI_20150317_000302	{@st59b} Giornale d'avventura {nl}{@st59s}- I tuoi progressi di gioco sono registrati nel Giornale d'Avventura. {nl} - Nel quale puoi controllare: strumenti ottenuti, mostri cacciati, crafting e mappe esplorate.{nl}    Indice d'Avventura : totale degli indici. {nl}    Crescita : 5 punti per livello personaggio e classe {nl}    Strumenti : Equipaggiamento : grado X 10 punti, Libri : 10 punti, Altro : 1 punto {nl}    Monstri : 10 punti per monstro (50 punti per i Boss) {nl}    Mappa : 1 punto per 10% esplorato {nl}    Quests : 1 punto per ogni quest {nl}    Obbiettivi : Varia in base all'obbiettivo {nl}    Crafting : 10 punti {nl}    Collezione : 5 punti per un deck e 45 punti quando e' completo {nl} - Puoi ricevere ricompense speciali dal NPC in citta'. {/}
+UI_20150317_000302	{@st59b} Giornale d'avventura {nl}{@st59s}- I tuoi progressi di gioco sono registrati nel Giornale d'Avventura. {nl} - Nel quale puoi controllare: strumenti ottenuti, mostri cacciati, crafting e mappe esplorate.{nl}    Indice d'Avventura : totale degli indici. {nl}    Crescita : 5 punti per livello personaggio e classe {nl}    Strumenti : Equipaggiamento : grado X 10 punti, Libri : 10 punti, Altro : 1 punto {nl}    Monstri : 10 punti per monstro (50 punti per i Boss) {nl}    Mappa : 1 punto per 10% esplorato {nl}    Quests : 1 punto per ogni quest {nl}    Obbiettivi : Varia in base all'obiettivo {nl}    Crafting : 10 punti {nl}    Collezione : 5 punti per un deck e 45 punti quando e' completo {nl} - Puoi ricevere ricompense speciali dal NPC in citta'. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Obbiettivi{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punti{/}
 UI_20150317_000305	{@st42b} Meta' / %s Points {/}
@@ -406,7 +406,7 @@ UI_20150317_000405	{@st41} Uccisioni normali {/}
 UI_20150317_000406	{@st41} Area {/}
 UI_20150317_000407	{@st41} Strumenti {/}
 UI_20150317_000408	{@st41} Obbiettivi {/}
-UI_20150317_000409	Obbiettivo
+UI_20150317_000409	Obiettivo
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Chiudi{/}
 UI_20150317_000412	{@st59}Sono troppo pigro per pensare.{/}
@@ -501,7 +501,7 @@ UI_20150317_000500	Crafting
 UI_20150317_000501	mescola mescola mixxa e mescola
 UI_20150317_000502	{@st43}Categoria{/}
 UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Obbiettivo{/}
+UI_20150317_000504	{@st43}Obiettivo{/}
 UI_20150317_000505	{@st43}Livello{/}
 UI_20150317_000506	{@st43}Fondi{/}
 UI_20150317_000507	{@st43}Probabilita'{/}
@@ -1793,7 +1793,7 @@ UI_20150918_001792	{@st42}Mostra Gruppi Vicino{/}
 UI_20150918_001793	Amicizia con {@sti9}%s{@st66b} : {@st66b}Livello{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Amicizia
 UI_20150918_001795	{@st41b}Ottenuti materiali per il crafting!
-UI_20150918_001796	{@st66b}{s20}Non sei diventato {/}{s20}{#cc6600}{ol}Incapace di combattere {/}{@st66b}{s20}!{/}
+UI_20150918_001796	{@st66b}{s20}Sei diventato {/}{s20}{#cc6600}{ol}Incapace di combattere {/}{@st66b}{s20}!{/}
 UI_20150918_001797	{@st66b}Riparti dal piu' vicino Revival Point{/}
 UI_20150918_001798	{@st66b}Riparti qui (richiesti %s iCoins){/}
 UI_20150918_001799	{@st66b}Ritoran al campo{/}
@@ -2075,7 +2075,7 @@ UI_20160224_002074	{@st63_yellow}Membri :{/}
 UI_20160224_002075	{@st63}%s partecipanti (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Luogo :{/}
 UI_20160224_002077	Cobalt Forest
-UI_20160224_002078	{@st63_yellow}Obbiettivo :{/}
+UI_20160224_002078	{@st63_yellow}Obiettivo :{/}
 UI_20160224_002079	{@st43}Lv. Gilda %s{/}
 UI_20160224_002080	{@st66b}Upgrade & Rank
 UI_20160224_002081	{@st66b}Attributi Gilda
@@ -2132,8 +2132,8 @@ UI_20160224_002131	Sconfitte : %s
 UI_20160224_002132	Danni : %s
 UI_20160224_002133	Aumenta nummero massimo di Buff
 UI_20160310_002134	{@st65}Danno: %s{/}
-UI_20160310_002135	{@st65}{s12}Obbiettivo{/}
-UI_20160310_002136	{#16120e}Obbiettivo{/}
+UI_20160310_002135	{@st65}{s12}Obiettivo{/}
+UI_20160310_002136	{#16120e}Obiettivo{/}
 UI_20160310_002137	Counteggio: %s
 UI_20160310_002138	Danno: %s
 UI_20160310_002139	{@sti9}Uccisioni Ranking
