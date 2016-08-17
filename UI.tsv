@@ -1,105 +1,105 @@
-﻿UI_20150317_000001	{@st41b}Impara gli attributi{nl}dalle rispettive maestrie per ogni classe.{/}
+UI_20150317_000001	{@st41b}Impara gli Attributi{nl}dai rispettivi masters di ogni classe.{/}
 UI_20150317_000002	{@st43}Lista Attributi {/}
 UI_20150317_000003	{@st59}Chiudi{/}
-UI_20150317_000004	{@st43}Impara gli attributi{/}
+UI_20150317_000004	{@st43}Impara Attributi{/}
 UI_20150317_000005	{@st59}Chiudi{/}
-UI_20150317_000006	{@st41b}Denari{/}
+UI_20150317_000006	{@st41b}Silver{/}
 UI_20150317_000007	I miei Obbiettivi
-UI_20150317_000008	Classifica Server
-UI_20150317_000009	{@st59}E' subentrato un evento inaspettato.{/}
-UI_20150317_000010	{@st59}C'e' un nuovo messaggio di aiuto{/}
+UI_20150317_000008	Server Ranking
+UI_20150317_000009	{@st59}Un evento inaspettato e' accaduto.{/}
+UI_20150317_000010	{@st59}C'e' un nuovo messaggio in Aiuto{/}
 UI_20150317_000011	{@st41}Sei sicuro di voler creare questo tipo di freccia?{/}
-UI_20150317_000012	{@st41b}Una volta{/}
-UI_20150317_000013	{@st41b}Tutto{/}
+UI_20150317_000012	{@st41b}Una sola{/}
+UI_20150317_000013	{@st41b}Tutte{/}
 UI_20150317_000014	{@st41b}Pausa{/}
-UI_20150317_000015	{@st43}Giornale d'avventura{/}
-UI_20150317_000016	{@st43}Mercato{/}
+UI_20150317_000015	{@st43}Giornale d'Avventura{/}
+UI_20150317_000016	{@st43}Negozio d'Asta{/}
 UI_20150317_000017	{@st59}Chiudi{/}
-UI_20150317_000018	{@st41b}Strumenti venduti : ×%s, Strumenti non venduti : ×%s{/}
-UI_20150317_000019	{@st43}{s22}Mercato degli strumenti{/}
+UI_20150317_000018	{@st41b}Oggetti venduti : ×%s, Oggetti non venduti : ×%s{/}
+UI_20150317_000019	{@st43}{s22}Asta Oggetti{/}
 UI_20150317_000020	{@st59}Chiudi{/}
-UI_20150317_000021	Utili
-UI_20150317_000022	{@st41b}Tempo rimanente
+UI_20150317_000021	Availest
+UI_20150317_000022	{@st41b}Tempo rimasto
 UI_20150317_000023	3 ore 16 minuti
-UI_20150317_000024	{@st41b}Prezzo di partenza
+UI_20150317_000024	{@st41b}Prezzo di Partenza
 UI_20150317_000025	{@st41b}Offerte
-UI_20150317_000026	{@st41b}Prezzo corrente
-UI_20150317_000027	{@st41b}Prezzo offerto
-UI_20150317_000028	{@st41b}Prezzo minimo offerto da {@st57}%s{@st41b}denari{/}
-UI_20150317_000029	{@st41b}Offrire{/}
-UI_20150317_000030	{@st43b}Compra ora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@st44}Impostazioni autorizzazioni{/}
+UI_20150317_000026	{@st41b}Prezzo Corrente
+UI_20150317_000027	{@st41b}Prezzo Offerto
+UI_20150317_000028	{@st41b}Offerta minima da {@st57}%s{@st41b}silver{/}
+UI_20150317_000029	{@st41b}Offerta{/}
+UI_20150317_000030	{@st43b}Compra Ora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000031	{@st44}Impostazioni Permessi{/}
 UI_20150317_000032	{@st45}Nome: %s{/}
-UI_20150317_000033	{@st45}Banca del Team{/}
+UI_20150317_000033	{@st45}Deposito Gruppo{/}
 UI_20150317_000034	{@st49}No
-UI_20150317_000035	{@st49}Deposita
+UI_20150317_000035	{@st49}Deposito
 UI_20150317_000036	{@st49}Ritira
 UI_20150317_000037	{@st45}Esamina{/}
 UI_20150317_000038	{@st49}Crea
 UI_20150317_000039	{@st49}Cancella
 UI_20150317_000040	{@st44}Salva{/}
-UI_20150317_000041	{@st44}Annula{/}
-UI_20150317_000042	{@st43}{s22}Negozio di capigliature{/}
-UI_20150317_000043	{@st59}Capigliatura precedente{/}
-UI_20150317_000044	{@st59}Capigliatura successiva{/}
-UI_20150317_000045	{@st41b} Cambia {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@st59}Cambia con la capigliatura selezionata.{/}
-UI_20150317_000047	{@st41}Annula
-UI_20150317_000048	{@st43}Nagozio Oscuro{/}
-UI_20150317_000049	Nome Libro
+UI_20150317_000041	{@st44}Annulla{/}
+UI_20150317_000042	{@st43}{s22}Negozio Capigliature{/}
+UI_20150317_000043	{@st59}Capigliatura Precedente{/}
+UI_20150317_000044	{@st59}Capigliatura Successiva{/}
+UI_20150317_000045	{@st41b} Cambia {s18} (100 iCoins richiesti) {/}
+UI_20150317_000046	{@st59}Cambia alla capigliatura selezionata.{/}
+UI_20150317_000047	{@st41}Annulla
+UI_20150317_000048	{@st43}Black Market{/}
+UI_20150317_000049	Book Name
 UI_20150317_000050	{@St59}Fermati di leggere{/}
 UI_20150317_000051	{@st59}Pagina precedente{/}
-UI_20150317_000052	{@st59}Prossima pagina{/}
+UI_20150317_000052	{@st59}Pagina successiva{/}
 UI_20150317_000053	{@st47}%s e' apparso!
 UI_20150317_000054	{@st43}Punteggio{/}
 UI_20150317_000055	Danno ricevuto
 UI_20150317_000056	Bonus Tecnica
 UI_20150317_000057	Bonus Evasione
-UI_20150317_000058	Miglior tempo
-UI_20150317_000059	Punteggio totale
-UI_20150317_000060	{@st42}Tempo trascorso
+UI_20150317_000058	Tempo Visibile
+UI_20150317_000059	Punteggio Totale
+UI_20150317_000060	{@st42}Tempo rimasto
 UI_20150317_000061	10 minuti
 UI_20150317_000062	10 secondi
 UI_20150317_000063	{@st44}Completato
 UI_20150317_000064	{@st59}Chiudi{/}
-UI_20150317_000065	{@st43}Macchina Vendi-Buff
+UI_20150317_000065	{@st43}Macchina Vendi-Buff 
 UI_20150317_000066	Nome Macchina Vendi-Buff
 UI_20150317_000067	{@st43}Registra
-UI_20150317_000068	{@st43}Cancella
+UI_20150317_000068	{@st43}Annulla
 UI_20150317_000069	Macchina Vendi-Buff
-UI_20150317_000070	{@st59}Chiudi
-UI_20150317_000071	{@st59}Macchina Vendi-Buff{nl} - Puoi pagare in denaro per ricevere buff da altri giocatori.
-UI_20150317_000072	Menu Trasporto
+UI_20150317_000070	{@st59}Annulla
+UI_20150317_000071	{@st59}Macchina Vendi-Buff{nl} - Puoi pagare silver per ricevere dei buffs da altri giocatori.
+UI_20150317_000072	Menu' Trasporto
 UI_20150317_000073	{ol}{s22}Scendere{/}
 UI_20150317_000074	Casting
-UI_20150317_000075	{@st43}Impostazioni gioco{/}
+UI_20150317_000075	{@st43}Impostazioni Gioco{/}
 UI_20150317_000076	{@st64}Usa le freccie direzionali per selezionare!
-UI_20150317_000077	{@st43}Informazioni aggiuntive {/}
-UI_20150317_000078	{@st43}Seleziona classe
+UI_20150317_000077	{@st43}Informazioni avanzate {/}
+UI_20150317_000078	{@st43}Seleziona Classe
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Rango {/}
-UI_20150317_000081	Mostra specializzazioni
-UI_20150317_000082	Mostra una breve descrizione della classe.
+UI_20150317_000081	Quanti Ranghi
+UI_20150317_000082	Mostra una breve descrizione della Classe.
 UI_20150317_000083	{@st41b}Attacco {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Supporto {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficolta' {@sti7}%s{/}
 UI_20150317_000086	{@st59}Chiudi{/}
-UI_20150317_000087	Progresso
-UI_20150317_000088	{@st43} Progresso
+UI_20150317_000087	Allarme avanzato
+UI_20150317_000088	{@st43} Avanzato
 UI_20150317_000089	{@sti7}{s14} Livello {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	Per. 
-UI_20150317_000093	Generale: /s chat {nl} Megafono: /y chat {nl} Gruppo: /p chat{nl} Sussurro: /w Nome Team personaggio
-UI_20150317_000094	{@st41}Tutte le chat{/}
+UI_20150317_000093	Tutti: /s chat {nl} Megafono: /y chat {nl} Gruppo: /p chat{nl} Sussurro: /w nome Team personaggio
+UI_20150317_000094	{@st41}Tutte le Chat{/}
 UI_20150317_000095	{@59}Esci{/}
 UI_20150317_000096	{@59}Invita{/}
-UI_20150317_000097	{@st59}Tutti{/}
+UI_20150317_000097	{@st59}Tutto{/}
 UI_20150317_000098	{@st59}Normale (/s chat){/}
 UI_20150317_000099	{@st59}Megafono (/y chat){/}
 UI_20150317_000100	{@st59}Gruppo (/p chat){/}
-UI_20150317_000101	{@st59}Sussuro (/w nome team){/}
-UI_20150317_000102	{@st59}Ridimensionare finestra chat{/}
+UI_20150317_000101	{@st59}Sussuro (/w nome Team){/}
+UI_20150317_000102	{@st59}Ridimensiona Finestra Chat{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
 UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Come usare: {nl} 1. Trascina un'icona dei gesti negli spazio sottostanti. {nl} 2. Scrivi la tua frase e salva. {nl} 3. Utilizzare il tasto di scelta rapida contemporaneamente la frase per fare il gesto. {/}
@@ -733,7 +733,7 @@ UI_20150317_000732	{@st59}Amici (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
 UI_20150317_000734	{@st59}Compagni (F9) {/}
 UI_20150317_000735	{@st59}Aiuto (F10) {/}
-UI_20150317_000736	{@st59}Menu' Sistema (Esc){/}
+UI_20150317_000736	{@st59}Sistema (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
 UI_20150317_000738	Aiuto (F1)
 UI_20150317_000739	Contenuti
@@ -747,7 +747,7 @@ UI_20150317_000746	{@st41b}Mostra Guida Missioni{/}
 UI_20150317_000747	{@st43}Risoluzione{/}
 UI_20150317_000748	{@st43}Grafica{/}
 UI_20150317_000749	{@st41b}Schermo intero{/}
-UI_20150317_000750	{@st41b}Modalita' Windowed{/}
+UI_20150317_000750	{@st41b}Modalita' finestra{/}
 UI_20150317_000751	{@st43}Suono{/}
 UI_20150317_000752	{@st41b}Volume Effetti (%s){/}
 UI_20150317_000753	{@st41b}Volume BGM  (%s){/}
@@ -932,7 +932,7 @@ UI_20150317_000931	{@st41}Save Property{/}
 UI_20150317_000932	{@st44}Lista UI{/}
 UI_20150317_000933	{ds}Addon List
 UI_20150317_000934	{ds}Fixed frame list
-UI_20150317_000935	{@st42}UI list{/}
+UI_20150317_000935	{@st42}Lisat UI{/}
 UI_20150317_000936	{@st59}show UI List{/}
 UI_20150317_000937	{@st42}Adjust location{/}
 UI_20150317_000938	{@st59}Adjust location{/}
@@ -940,8 +940,8 @@ UI_20150317_000939	{@st42}Edit Property{/}
 UI_20150317_000940	{@st59}Edit property{/}
 UI_20150317_000941	{@st42}Salva{/}
 UI_20150317_000942	{@st59}Salva{/}
-UI_20150317_000943	{@st44}Edit UI properties{/}
-UI_20150317_000944	{@St59}Selezione Personaggio{/}
+UI_20150317_000943	{@st44}Modifica propieta' UI{/}
+UI_20150317_000944	{@St59}Selezione Personaggi{/}
 UI_20150317_000945	{@St59}Logout{/}
 UI_20150317_000946	{@St59}Impostazioni{/}
 UI_20150317_000947	{@St59}Esci{/}
@@ -1006,7 +1006,7 @@ UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
 UI_20150317_001007	{@St42}Cambia{/}
 UI_20150317_001008	{@St44}New Window Name{/}
-UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Creazione Personaggio{/}
 UI_20150317_001010	{@St59}Crea un personaggio{/}
 UI_20150317_001011	{@St59}Annula creazione personaggio{/}
 UI_20150317_001012	{@St59}Chiudi{/}
@@ -1140,7 +1140,7 @@ UI_20150317_001139	Lv
 UI_20150317_001140	Tutti possono equipaggiarlo
 UI_20150317_001141	Massima incastonamenti : ×%s
 UI_20150317_001142	Nome Oggetto
-UI_20150317_001143	Valuta : %s Denari
+UI_20150317_001143	Valuta : %s silver
 UI_20150317_001144	Quanto
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
@@ -1223,8 +1223,8 @@ UI_20150317_001222	Tooltip
 UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
 UI_20150317_001224	Apprentice Sword
 UI_20150317_001225	Repair Durability :
-UI_20150317_001226	Costo riparazione : 120 Denari
-UI_20150317_001227	Costro riparazione : %s Denari
+UI_20150317_001226	Costo riparazione : 120 silver
+UI_20150317_001227	Costro riparazione : %s silver
 UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}
 UI_20150317_001229	{@st42b}Prezzo attuale {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Compra immediatamente! {Img icon_item_silver 20 20}{@st57}%s{/}
@@ -1285,7 +1285,7 @@ UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Difficolta' : %s
 UI_20150317_001286	{@St42}Tempo rimasto : %s
 UI_20150317_001287	{@St53}Crafting Oggetto
-UI_20150323_001288	{@st59}Metti il tuo Oggetto qui{/}
+UI_20150323_001288	{@st59}Metti qui arma e sub-arma{/}
 UI_20150323_001289	{@st42}Annulla
 UI_20150323_001290	{@st42}Conferma
 UI_20150323_001291	{@st43}Briquetting{/}
@@ -1306,9 +1306,9 @@ UI_20150323_001305	{@st41b}Ripristina
 UI_20150323_001306	{@st59}Ultimo Ripristino.{/}
 UI_20150323_001307	{@st41b}Campo Base Tempo
 UI_20150323_001308	{@st41b}Effetti
-UI_20150323_001309	{@st42b}Un Campo Base rimane 24 ore quando viene rinnovato. Consuma %s Denari.
+UI_20150323_001309	{@st42b}Un Campo Base rimane 24 ore quando viene rinnovato. Consuma %s silver.
 UI_20150323_001310	{@st41b}Deposito Personale
-UI_20150323_001311	{@stc1}Depositare e Ritirare oggetti dal deposito costa %s Denari.{/}
+UI_20150323_001311	{@stc1}Depositare e Ritirare oggetti dal deposito costa %s silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Target Lockato{/}
 UI_20150323_001313	{@st43}Ricarica Tavolo
 UI_20150323_001314	{@st41b}Tipo di Cibo
@@ -1349,7 +1349,7 @@ UI_20150323_001348	{@st43}Upgrade Oggetto Dungeon
 UI_20150323_001349	{@st41}Materiali Richiesti
 UI_20150323_001350	{@st59}Materiali Richiesti{/}
 UI_20150323_001351	Livello Raccomandato : %s
-UI_20150323_001352	{@st43}Seleziona Modalita' UI {/}
+UI_20150323_001352	{@st43}Seleziona UI {/}
 UI_20150323_001353	{@st43}Compra nel Buy-in
 UI_20150323_001354	Nome Negozio
 UI_20150323_001355	{@st41b}Apri Negozio
@@ -1358,7 +1358,7 @@ UI_20150323_001357	{@st59}Annulla{/}
 UI_20150323_001358	{@st59}Chiudi{/}
 UI_20150323_001359	Richiesta Buy-in
 UI_20150323_001360	{@st59}Chiudi Buy-in
-UI_20150323_001361	{@st59}Buy-in{nl} - Scambia i tuoi oggetti per Denari
+UI_20150323_001361	{@st59}Buy-in{nl} - Scambia i tuoi oggetti per silver
 UI_20150323_001362	{@st43}Oggetti che i compratori vogliono{/}
 UI_20150323_001363	{@st43}Oggetti in saldo
 UI_20150323_001364	{@st43}Profitto Totale
@@ -1376,7 +1376,7 @@ UI_20150323_001375	{@st41b}Applica Profondita' {/}
 UI_20150323_001376	{@st41b}Apply Particelle Leggere{/}
 UI_20150323_001377	{@st43}Deposito Personale{/}
 UI_20150323_001378	{@st59}Chiudi Deposito Personale{/}
-UI_20150323_001379	{@sti6}Deposita e Ritira oggetti dal deposito al costo di %s Denari...{/}
+UI_20150323_001379	{@sti6}Deposita e Ritira oggetti dal deposito al costo di %s silver...{/}
 UI_20150323_001380	{@st59}Alt+Z per cambiare arma{/}
 UI_20150323_001381	{@st59}Salva impostazioni Lodge{/}
 UI_20150323_001382	Cambia Lodge
@@ -1388,10 +1388,10 @@ UI_20150323_001387	{@st41b}Cambia Lodge{/}
 UI_20150323_001388	{@st59}Decora la tua Lodge{/}
 UI_20150323_001389	{@st41b}Impostazioni Lodge{/}
 UI_20150323_001390	{@st59}Cambia impostazioni Lodge{/}
-UI_20150323_001391	{@st45ty}Character Greeting{/}
+UI_20150323_001391	{@st45ty}Saluti{/}
 UI_20150323_001392	{@st45ty}Buy-in Negozio
 UI_20150323_001393	{@st41b}Cambia
-UI_20150323_001394	{@st59}Change Character Greeting{/}
+UI_20150323_001394	{@st59}Modifica saluti Personaggio{/}
 UI_20150323_001395	{@st59}Setta Buy-in Negozio{/}
 UI_20150323_001396	Quantita' : %s{/}
 UI_20150323_001397	Cerca oggetto da comprare
@@ -1459,7 +1459,7 @@ UI_20150406_001458	{@st42}Annulla
 UI_20150406_001459	{@stc1}Durabilita' Campo
 UI_20150406_001460	{@st41b}Campo Base
 UI_20150406_001461	{@st41b}Durabilita' Campo
-UI_20150406_001462	{@st42b}Un Campo Base dura 24 ore se viene rinnovato. {nl}%s Denari vengono consumati.
+UI_20150406_001462	{@st42b}Un Campo Base dura 24 ore se viene rinnovato. {nl}%s silver vengono consumati.
 UI_20150406_001463	{@st41}Rimuovi Campo
 UI_20150406_001464	{@st42}Rimuovi Tavolo
 UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Piazza una carta nel deck per evocarla{/}
@@ -1468,16 +1468,16 @@ UI_20150406_001467	{@st41}Statistiche
 UI_20150406_001468	{@st41b}Nome Box Offerte
 UI_20150406_001469	{@st41b}Dettagli Box Offerte
 UI_20150406_001470	{@st59}Chiudi
-UI_20150406_001471	{@st59b}Buy-in Negozio{nl}{@st59s} - Scambia oggetti per Denari
+UI_20150406_001471	{@st59b}Buy-in Negozio{nl}{@st59s} - Scambia oggetti per silver
 UI_20150406_001472	{@st41b}Richieste oggetti di altri Giocatori{/}
 UI_20150406_001473	{@st41b}Oggetti Disponibili{/}
 UI_20150406_001474	{@st41b}Totale Vendite
 UI_20150406_001475	{@st41b}Vendi
 UI_20150406_001476	{@st59}Vendi il tuo oggetto(i).{/}
 UI_20150406_001477	{@st59}Chiudi{/}
-UI_20150406_001478	{@st41b}%s Denari possono essere ritirati e depositati.{/}
+UI_20150406_001478	{@st41b}%s silver possono essere ritirati e depositati.{/}
 UI_20150406_001479	{@st41b}Quantita'
-UI_20150414_001480	{@st42b}La durata del tuo campo e' aumentata.{nl} Costo: %s Denari.
+UI_20150414_001480	{@st42b}La durata del tuo campo e' aumentata.{nl} Costo: %s silver.
 UI_20150414_001481	{@st41b}Digita {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Difficolta' {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Oggetti {/}
@@ -1515,7 +1515,7 @@ UI_20150428_001514	{@st44}Logout{/}
 UI_20150428_001515	{@st41b}Lascia Aiutante(Richiede %s iCoin){/}
 UI_20150428_001516	Costi Aggiuntivi Arricchimento : {#ff9933}%s{/}{nl}Costi Rimozione Gemma : {#ff9933}%s{/}
 UI_20150428_001517	{@st41b}Rimuovi Gemma
-UI_20150428_001518	{@st42}{s14}{#ffff00}Modalita' UI{/}
+UI_20150428_001518	{@st42}{s14}{#ffff00}Impostazioni UI{/}
 UI_20150428_001519	{@st59}Usa la Tastiera o Controller per controllare la UI
 UI_20150428_001520	Usa la Ricerca Gruppo 
 UI_20150428_001521	Quando un personaggio corrisponde alle condizioni della ricerca è stato trovato {nl}[Gruppo Trovato!] sara' mostrato.
@@ -1534,7 +1534,7 @@ UI_20150428_001533	{@st45ty}Colore Capigliatura
 UI_20150428_001534	{@st45ty}Ttitoli Attivabili
 UI_20150428_001535	{@st41_yellow}Aiuto Skill
 UI_20150428_001536	{@st41b}Mostra Nome altri Personaggi{/}
-UI_20150428_001537	{@st43}Modalita' UI{/}
+UI_20150428_001537	{@st43}Impostazioni UI{/}
 UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Controller{/}
 UI_20150428_001540	{@st41b}Tastiera{/}
@@ -1634,11 +1634,11 @@ UI_20150714_001633	{@st66b}Comandi{/}
 UI_20150714_001634	{@st66b}Tastiera{/}
 UI_20150714_001635	{@st66b}Mouse
 UI_20150714_001636	{@st66b}Schermo intero{/}
-UI_20150714_001637	{@st66b}Modalita' Windowed{/}
+UI_20150714_001637	{@st66b}Modalita' finestra{/}
 UI_20150714_001638	{@st66b}Volume Effetti (%s){/}
 UI_20150714_001639	{@st66b}Volume BGM (%s){/}
 UI_20150714_001640	{@st66b}Volume (%s){/}
-UI_20150714_001641	{@st66b}Modalita' Bassa{/}
+UI_20150714_001641	{@st66b}Bassa risoluzione{/}
 UI_20150714_001642	{@st66b}Impostazioni Auto{/}
 UI_20150714_001643	{@st66b}Disabilita{/}
 UI_20150714_001644	{@st66b}Applica Bloom{/}
@@ -1648,13 +1648,13 @@ UI_20150714_001647	{@st66b}Applica Glow{/}
 UI_20150714_001648	{@st66b}Applica Profondita'{/}
 UI_20150714_001649	{@st66b}Applica Effetti{/}
 UI_20150714_001650	{@st66b}Applica Alta Definizione{/}
-UI_20150714_001651	{@st66b}Sincronizzazione verticale On{/}
-UI_20150714_001652	{@st66b}Sincronizzazione verticale Off{/}
-UI_20150714_001653	{@st66b} %s soldi sono stati caricati quando hai depositato o ritirato oggetti dal deposito.{/}
+UI_20150714_001651	{@st66b}Sinc. verticale On{/}
+UI_20150714_001652	{@st66b}Sinc. verticale Off{/}
+UI_20150714_001653	{@st66b} %s silver sono stati usati quando hai depositato o ritirato oggetti dal deposito.{/}
 UI_20150714_001654	%s mi ha dato un like 
 UI_20150714_001655	{@st41}Osserva
 UI_20150714_001656	{@st66b}Esci dalla Modalita' Spettatore
-UI_20150714_001657	Cerca un gioco. Vuoi entrare?
+UI_20150714_001657	In cerca di una partita. Vuoi entrare?
 UI_20150714_001658	{@st41}Entra
 UI_20150714_001659	{@st41}Declina
 UI_20150714_001660	Fine Gioco
@@ -1685,7 +1685,7 @@ UI_20150714_001684	{@st42} %s incanta %s
 UI_20150714_001685	Nota :%s
 UI_20150714_001686	{@st59}Aggiunto materiale a questo slot.{/}
 UI_20150714_001687	{@st66b}Prezzo : %s{/}
-UI_20150714_001688	Character Greeting
+UI_20150714_001688	Saluti
 UI_20150714_001689	Buy-in Negozio
 UI_20150714_001690	×%s
 UI_20150714_001691	{@41b}Criteria
@@ -1774,7 +1774,7 @@ UI_20150807_001773	{@st41b}Prezzo :{/}
 UI_20150807_001774	{@st41b}Dopo Riparazione :{/}
 UI_20150918_001775	Durata Campo
 UI_20150918_001776	Effetto
-UI_20150918_001777	Durata Campo e' aumentata quando e' rinnovato{nl} Richiesti %s denari.
+UI_20150918_001777	Durata Campo e' aumentata quando e' rinnovato{nl} Richiesti %s silver.
 UI_20150918_001778	Deposito Personale
 UI_20150918_001779	{@st41b}Digita : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Difficolta' : {@sti7}%s{/}
@@ -1786,7 +1786,7 @@ UI_20150918_001785	{#000000}Livello Entrata{/}
 UI_20150918_001786	{#000000}Numero Entrate{/}
 UI_20150918_001787	{#000000}Il numero di entrate viene resettato alle %s.{/}
 UI_20150918_001788	{img silver 20 20} Prezzo
-UI_20150918_001789	Informazioni Gruppi vicino
+UI_20150918_001789	Gruppi vicino
 UI_20150918_001790	Frammenti Richiesti : %s 
 UI_20150918_001791	{@st66b}Vuoto
 UI_20150918_001792	{@st42}Mostra Gruppi Vicino{/}
@@ -1836,15 +1836,15 @@ UI_20151224_001835	{@st59}Chiudi{/}
 UI_20151224_001836	{@st43}Negozio Incantesimi
 UI_20151224_001837	Negozio Incantesimi
 UI_20151224_001838	{@st59}Chiudi
-UI_20151224_001839	{@st59}Negozio Incantesimi{nl} - Puoi ricevere un buff skill da altri giocatori pagando in Denari.
+UI_20151224_001839	{@st59}Negozio Incantesimi{nl} - Puoi ricevere un buff skill da altri giocatori pagando in silver.
 UI_20151224_001840	{@st41b}Build
 UI_20151224_001841	{@st41b}Materiali e Prezzo
 UI_20151224_001842	{@st66b}Sotteraneo
 UI_20151224_001843	{@st66b}Records
-UI_20151224_001844	Quantita' Gambe
+UI_20151224_001844	Quantita'
 UI_20151224_001845	{@st41}Conferma
 UI_20151224_001846	{@st42}Usa{/}
-UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}
+UI_20151224_001847	{@st66b18}※ Gli oggetti comprati tramite TP non sono rimborsabili.{/}
 UI_20151224_001848	{@st59}Gilda  (/g chat){/}
 UI_20151224_001849	{@st59}Gilda   (/g chat){/}
 UI_20151224_001850	{@st42}Dimensione Testo
@@ -1917,7 +1917,7 @@ UI_20151224_001916	{@st65}Piu' alto prima{/}
 UI_20151224_001917	{@st45tw2}Prezzo{/}
 UI_20151224_001918	{@st45tw2}Tempo prima di ritirare{/}
 UI_20151224_001919	{@st66b}Periodo di vendita & Commissioni gratuite{/}
-UI_20151224_001920	{@st66}Dopo 48 ore, potrai ritirare i tuoi{nl}Denari dal Negozio escluso i Tokens.
+UI_20151224_001920	{@st66}Dopo 48 ore, potrai ritirare i tuoi{nl}silver dal Negozio escluso i Tokens.
 UI_20151224_001921	{@st45tw2}Deadline{/}
 UI_20151224_001922	{@st45tw2}Commissioni Gratuite{/}
 UI_20151224_001923	{@st45tw2}Prezzo Totale{/}
@@ -1978,8 +1978,8 @@ UI_20151224_001977	TP
 UI_20151224_001978	Inventario Shopping TP
 UI_20151224_001979	TP Rimanenti
 UI_20151224_001980	{@st49}Conferma Acquisto{/}
-UI_20151224_001981	{@st66b}Aumenta Deposito
-UI_20151224_001982	{@st59}Aumenta Deposito{/}
+UI_20151224_001981	{@st66b}Aumenta
+UI_20151224_001982	{@st59}Aumenta{/}
 UI_20151224_001983	{@st42b}Area{/}
 UI_20151224_001984	{@st59}Apri Mappa{/}
 UI_20151224_001985	Numero
@@ -2065,7 +2065,7 @@ UI_20160224_002064	{@st59b}Scambio Oggetti{nl}{@st59s} - Hai la possibilita' di 
 UI_20160224_002065	F
 UI_20160224_002066	{@st59}Chiudi{/}
 UI_20160224_002067	{@st59}Posizionare un accessorio{/}
-UI_20160224_002068	{@st66b}Apri piu' volte costa Denari.{/}
+UI_20160224_002068	{@st66b}Aprire piu' volte costa silver.{/}
 UI_20160224_002069	{@st66b}(Piu' di due volte per gli utenti che possiedono il Token){/}
 UI_20160224_002070	{@st41b}Hai superato il numero massimo.{/}
 UI_20160224_002071	{@st66b}Informazioni Base
@@ -2192,7 +2192,7 @@ UI_20160520_002191	{@st45tw2}Comprati TP{/}
 UI_20160520_002192	Regala TP
 UI_20160520_002193	{@st49}Usa{/}
 UI_20160520_002194	{@st42}Guerre di Gilda
-UI_20160520_002195	Dichiara Neutrale
+UI_20160520_002195	Neutrale
 UI_20160603_002196	{@st66b}Velocita' Puntatore Mouse (%s){/}
 UI_20160613_002197	{@st42}Se entrambe le parti usano il Tokens,{nl}per scambiare l'equipaggiamento, questi non diverra' non commerciabile.{nl}{#FFFF00}Consumabili e materiali diverranno{nl}non commerciabili indipendentemente dal Token.{/}
 UI_20160617_002198	{@st59}Chiudi{/}
@@ -2209,7 +2209,7 @@ UI_20160711_002208	{@st42b}{img silver 20 20} Quantita'{/}
 UI_20160711_002209	In Coda :
 UI_20160711_002210	In attesa d'informazioni.
 UI_20160718_002211	Minimizza Chat
-UI_20160718_002212	Forza Downscroll della Chat
+UI_20160718_002212	Forza Downscroll
 UI_20160718_002213	{@st43}Evento Negozio{/}
 UI_20160718_002214	{@st59}Chiudi{/}
 UI_20160718_002215	{@st41}Statistiche
@@ -2249,5 +2249,73 @@ UI_20160718_002248	Non puoi usarlo :
 UI_20160718_002249	Giorno Ore Minuti Secondi
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Punti{/}
-UI_20160718_002252	{#000000}%s Pointi{/}
+UI_20160718_002252	{#000000}%s Punti{/}
 UI_20160718_002253	GVG Ranking Regionale
+UI_20160811_002254	{@st66b18}※The item will be consumed if you change the name.{/}
+UI_20160811_002255	{@st42}Abilita Notifiche Login
+UI_20160811_002256	{@white_16_ol}Membri gilda{/}
+UI_20160811_002257	{@white_16_ol}Amici{/}
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}The Card's level will{nl}decrease by one stage if you unequip it.{/}
+UI_20160811_002259	{@st66b}Removable Effect{/}
+UI_20160811_002260	None.
+UI_20160811_002261	{@st41b}Unequip{/}
+UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5TP{nl}Unequip Card without the loss of a Star{/}
+UI_20160811_002263	{@st41b}Final Confirmation
+UI_20160811_002264	{@st42}My Trades{/}
+UI_20160811_002265	{@st42}Trades{/}
+UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment will not be changed.{nl}Consumables and material items will become untradable regardless of Token use.{/}
+UI_20160811_002267	Token Match
+UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}
+UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}
+UI_20160811_002270	{@st41b}Trade
+UI_20160811_002271	{@st41b}Cancel Trade
+UI_20160811_002272	{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}
+UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}
+UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}
+UI_20160811_002275	{@st66b}{s20}Character is currently in {/}{s20}{#770000}combat{@st66b}{s20}.{/}
+UI_20160811_002276	{@st66b}Cancel{/}
+UI_20160811_002277	{@st66b} Real-time Standings
+UI_20160811_002278	{@st66b}Previous Season Standings{/}
+UI_20160811_002279	Previous Week's Standings
+UI_20160811_002280	20 x 300TP Vouchers
+UI_20160811_002281	Receive Rewards
+UI_20160811_002282	{@sti1c}Weekly Rankings{/}
+UI_20160811_002283	{@st66b}Uphill Defense{/}
+UI_20160811_002284	Levels in ascending order{/}
+UI_20160811_002285	Levels in descending order{/}
+UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}
+UI_20160811_002287	Transcend Item
+UI_20160811_002288	Transcendence
+UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by anvil{nl}- Items that can Transcend : Weapons, Armor, Accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success(Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure(Does not loose potential){nl}- Transcended Items cannot be traded{/}
+UI_20160811_002290	{@st42}Stage%s{/}
+UI_20160811_002291	Extract Blessed Gem
+UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from Transcended Item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You will be able to retreive some of the Blessed Gems used for the Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
+UI_20160811_002293	Extraction Results
+UI_20160811_002294	Extract Item
+UI_20160811_002295	{@st59b}Extract Item{nl}{@st59s}- Remove Transcendence effects from a Transcended Item{nl}- Extraction Requirements : Spell Rod{/}
+UI_20160811_002296	Item Extraction Results
+UI_20160811_002297	Name of (Package) being sold
+UI_20160811_002298	{@st67}{s18} ※ You can only purchase 1 product per account.{/}
+UI_20160811_002299	{@st67}{s18} ※ The Package and all included items are untradable.{/}
+UI_20160811_002300	{@st66d}{s20}Purchase {/}
+UI_20160811_002301	{@st66d}{s20}Cancel{/}
+UI_20160811_002302	{@st67}{s26}The items cannot be refunded.{/}
+UI_20160811_002303	{@st66d}{s26}Confirm Purchase{/}
+UI_20160811_002304	{@st66d}{s26}No{/}
+UI_20160811_002305	{@st66d}{s26}Right to Cancel{/}
+UI_20160811_002306	{@st59}View suggested dungeon locations{/}
+UI_20160811_002307	{@st41}Lodge%s (%s/%s){/}
+UI_20160811_002308	{@st59}Move to Lodge.
+UI_20160811_002309	{@st59}The Jurate(Seasonal Server) is an event server that will exist until the 20th of October.{nl}Please check the Official Homepage for more details.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged to create the Vaivora Server.{/}
+UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged to create the Vaivora Server.{/}
+UI_20160811_002311	{@st66b}Move to other lodge
+UI_20160811_002312	{@st59}Move Lodge.{/}
+UI_20160811_002313	{@st59}Delete Companion
+UI_20160811_002314	You feel better.
+UI_20160811_002315	Carpet-type
+UI_20160811_002316	{@st42b}{s16}Charge{/}
+UI_20160811_002317	{@st66b}{s16}Preview{/}
+UI_20160811_002318	{@st42b}{s16}Put in cart{/}
+UI_20160811_002319	Have not learned
+UI_20160811_002320	* When battling
+UI_20160811_002321	{@st66d}Equipped Weapon
