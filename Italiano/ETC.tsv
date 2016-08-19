@@ -1558,7 +1558,7 @@ ETC_20150317_001557	Cannot be used in current status
 ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} You need to get a little closer {/}
 ETC_20150317_001559	Your password exceeds the maximum length allowed
 ETC_20150317_001560	Please enter a name
-ETC_20150317_001561	{s18}{ol}{#ffffcc}Entering the world...
+ETC_20150317_001561	{s18}{ol}{#ffffcc}Accesso al mondo...
 ETC_20150317_001562	{Auto_1} {Auto_2} item(s) given to the other party
 ETC_20150317_001563	Used {Auto_1} {Auto_2} item(s)
 ETC_20150317_001564	Equipped with {Auto_1}
@@ -1569,7 +1569,7 @@ ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
-ETC_20150317_001572	Create Character
+ETC_20150317_001572	Crea Personaggio
 ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item Bought
 ETC_20150317_001575	Failed to purchase item! It has already been sold out.
@@ -1618,7 +1618,7 @@ ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
 ETC_20150317_001619	Nome Personaggio
 ETC_20150317_001620	You do not have enough materials.
-ETC_20150317_001621	{S18}{ol}{#ffffcc}Connecting to the server...
+ETC_20150317_001621	{S18}{ol}{#ffffcc}Connessione al server...
 ETC_20150317_001622	This item cannot be discarded.
 ETC_20150317_001623	{@st46} Congratulations! Your character level has increased.
 ETC_20150317_001624	{Auto_1} Series
@@ -1643,7 +1643,7 @@ ETC_20150317_001642	[{Ability}] triggered!
 ETC_20150317_001643	Remaining Time: {Auto_1}
 ETC_20150317_001644	Tip : 
 ETC_20150317_001645	You cannot equip this equipment in this slot.
-ETC_20150317_001646	Do you really wish to quit?
+ETC_20150317_001646	Vuoi veramente uscire dal gioco?
 ETC_20150317_001647	{S20}{ol}{#ff1100} This attribute cannot be bought.
 ETC_20150317_001648	You cannot equip items with 0 durability.
 ETC_20150317_001649	Cancella
@@ -3744,7 +3744,7 @@ ETC_20150317_003743	Quest
 ETC_20150317_003744	Column syntax error
 ETC_20150317_003745	The start of the track
 ETC_20150317_003746	{Auto_2} track of {Auto_1} quest does not exist
-ETC_20150317_003747	Character
+ETC_20150317_003747	Personaggio
 ETC_20150317_003748	Quest finished directing 1111111, Layer object:
 ETC_20150317_003749	Quest finished directing 2222222, layer objects EventName:
 ETC_20150317_003750	Quest finished directing 333333, PC Current Layer:
@@ -4130,8 +4130,8 @@ ETC_20150317_004129	{@st42b}View Server Location{/}
 ETC_20150317_004130	{@st42b}View Node{/}
 ETC_20150317_004131	{@st42b}XAC Texture Path{/}
 ETC_20150317_004132	{@st42b}View Bounding Box{/}
-ETC_20150317_004133	Visit Lodge
-ETC_20150317_004134	Character Info
+ETC_20150317_004133	Visita Lodge
+ETC_20150317_004134	Info Personaggio
 ETC_20150317_004135	Inspection Component
 ETC_20150317_004136	Check default attributes
 ETC_20150317_004137	Check use skills
@@ -4375,7 +4375,7 @@ ETC_20150317_004374	There is no GenType
 ETC_20150317_004375	Appoint fixed skills
 ETC_20150317_004376	Remove fixed skills
 ETC_20150317_004377	{@st42b} Drag a zen type {/}
-ETC_20150317_004378	Menu
+ETC_20150317_004378	Menù
 ETC_20150317_004379	Change the number
 ETC_20150317_004380	Damage MIN
 ETC_20150317_004381	Damage MAX
@@ -5565,7 +5565,7 @@ ETC_20150317_005564	Sakura Swordsmanship_Low
 ETC_20150317_005565	Sakura Swordsmanship_High_Chain Attack
 ETC_20150317_005566	Sakura Swordsmanship_Mid_Chain Attack
 ETC_20150317_005567	Sakura Swordsmanship_Low_Chain Attack
-ETC_20150317_005568	Character Movement Speed
+ETC_20150317_005568	Velocità di movimento
 ETC_20150317_005569	The Line for Fortune Breakfast
 ETC_20150317_005570	N/A
 ETC_20150317_005571	For Testing
@@ -5897,7 +5897,7 @@ ETC_20150317_005896	            You can move by using the arrow keys.
 ETC_20150317_005897	Arrow Keys
 ETC_20150317_005898	{img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
 ETC_20150317_005899	{img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
-ETC_20150317_005900	{nl} {nl}Characters consume Stamina when moving.
+ETC_20150317_005900	{nl} {nl}I personaggi consumano Stamina quando si muovono.
 ETC_20150317_005901	   Use jump to go over obstacles or climb higher areas.
 ETC_20150317_005902	Press {img X 40 40} to make your character jump.
 ETC_20150317_005903	            Attack enemies within your attack range.
@@ -6013,9 +6013,9 @@ ETC_20150317_006012	Hold down {img Shift 45 45} and right-click to trade multipl
 ETC_20150317_006013	Items sold to the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
 ETC_20150317_006015	Status Points
-ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
+ETC_20150317_006016	Usa i tuoi Status Points ottenuti tramite livello per rendere il tuo personaggio più forte.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150317_006018	Aumenta STR/CON/INT/SPR/DEX usando Status Points e rendendo il tuo personaggio più forte. {nl} {nl} STR: Aumenta l'Attacco Fisico e quello Critico {nl} {nl} CON: Aumenta i max HP, Rcupero HP, Blocco, Resistenza Critici e Peso massimo Inventario {nl} {nl} INT: Aumenta l'Attacco Magico e il Blocco Penetrazione {nl}{nl} SPR: Aumenta gli SP massimi e il loro Recupero {nl} {nl} DEX: Aumenta il Bel Colpo, Evasione e Prob. Critici {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -10014,7 +10014,7 @@ ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Enter your personal greeting
 ETC_20150323_010018	Visit Barrack
-ETC_20150323_010019	Start Game
+ETC_20150323_010019	Inizia Gioco
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
@@ -13516,9 +13516,9 @@ ETC_20150717_013517	You disconnected from the server{nl}due to a verification fa
 ETC_20150717_013518	Your password is incorrect.
 ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To create a new character, you must first delete an existing character.
 ETC_20150717_013520	Please enter your account password.
-ETC_20150717_013521	Entering the world...
+ETC_20150717_013521	Accesso al mondo...
 ETC_20150717_013522	Do you want to learn this attribute?
-ETC_20150717_013523	Connecting to the server...
+ETC_20150717_013523	Connessione al server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel{nl}due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
@@ -15213,7 +15213,7 @@ ETC_20151001_015214	Chat Macro
 ETC_20151001_015215	Execute Quick Slot
 ETC_20151001_015216	Chat (Pad)
 ETC_20151001_015217	Status
-ETC_20151001_015218	Character Info
+ETC_20151001_015218	Info Personaggio
 ETC_20151001_015219	Skill Info
 ETC_20151001_015220	Quest Info
 ETC_20151001_015221	Gestures
@@ -19840,7 +19840,7 @@ ETC_20151224_019841	Increased movement speed by {COUNT}
 ETC_20151224_019842	Your Token has already been activated.
 ETC_20151224_019843	Premium goodies have arrived in your Lodge.{nl}Please retrieve them at your Lodge.
 ETC_20151224_019844	 the item
-ETC_20151224_019845	Character
+ETC_20151224_019845	Personaggio
 ETC_20151224_019846	Server Team
 ETC_20151224_019847	This item will be bound to you upon purchase.{nl}Are you sure you want to buy?
 ETC_20151224_019848	Are you sure you want to{nl}add the following item to the Market?
@@ -19865,7 +19865,7 @@ ETC_20151224_019866	TP Shop Purchase
 ETC_20151224_019867	Stat Reset
 ETC_20151224_019868	Request
 ETC_20151224_019869	Instant Warp
-ETC_20151224_019870	Character Name Change
+ETC_20151224_019870	Cambia Nome Personaggio
 ETC_20151224_019871	Random Box
 ETC_20151224_019872	Stat Reset
 ETC_20151224_019873	Storage Expansion
@@ -23314,8 +23314,8 @@ ETC_20160811_023316	Increases EXP multiplication in {Value}%.
 ETC_20160811_023317	EXP Event
 ETC_20160811_023318	You have exceeded the maximum number of character slots (companions included). Delete a character or expand your number of slots to log in.{nl}(Character slots: {CharSlot}, No. of characters: {CharCount})
 ETC_20160811_023319	You can no longer create a character in this server.
-ETC_20160811_023320	Move to Character Lodge
-ETC_20160811_023321	Delete Character
+ETC_20160811_023320	Sposta il Personaggio di Lodge
+ETC_20160811_023321	Elimina Personaggio
 ETC_20160811_023322	No slots available.{nl}(No, of characters: {CharCnt}, No. of slots: {SlotCnt})
 ETC_20160811_023323	You cannot expand your no. of slots in this server.
 ETC_20160811_023324	Auto Hunt: ON
