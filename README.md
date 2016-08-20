@@ -5,5 +5,6 @@ Credits will add to the project at last.
 
 
 UI 100% Translate - Done
-INTL 5% Translate
+
+INTL 5% Translate - Check error
 
