@@ -1462,24 +1462,24 @@ ETC_20150317_001461	Duration
 ETC_20150317_001462	User
 ETC_20150317_001463	Time Left
 ETC_20150317_001464	Nome
-ETC_20150317_001465	{S18}{ol}{#ffffcc}Your name cannot exceed 16 characters {nl} including blank spaces.
+ETC_20150317_001465	{S18}{ol}{#ffffcc}Il nome dei Personaggi non può superare i 16 spazi {nl} inclusi spazi vuoti.
 ETC_20150317_001466	{S18}{ol}{#ffffcc}Disconnesso dal server.{nl}
 ETC_20150317_001467	{S18}{ol}{#ffffcc}Sarai portato alla schermata di login dopo 3 secondi.
 ETC_20150317_001468	{S18}{ol}{#ffffcc}Non puoi collegarti al server.
 ETC_20150317_001469	{S18}{ol}{#ffffcc}Your ID exceeds the maximum length allowed.
 ETC_20150317_001470	{S18}{ol}{#ffffcc}Your username or password is incorrect. {nl} Please note that passwords are case sensitive.
-ETC_20150317_001471	{S18}{ol}{#ffffcc}Server shutdown is not completed, or you are already logged in.{nl} Server shutdown may take up to 3 minutes.
+ETC_20150317_001471	{S18}{ol}{#ffffcc}Server shutdown non è completo, o sei già logged dentro.{nl} Server shutdown entro 3 minuti.
 ETC_20150317_001472	{S18}{ol}{#ffffcc}Wrong verification code.
-ETC_20150317_001473	{S18}{ol}{#ffffcc}This name already exists. {nl} Please enter a different name.
+ETC_20150317_001473	{S18}{ol}{#ffffcc}Questo nome già esiste. {nl} Inseriscine uno nuovo.
 ETC_20150317_001474	{S18}{ol}{#ffffcc}Non puoi creare un personaggio.
 ETC_20150317_001475	{S18}{ol}{#ffffcc}Non puoi cancellare il personaggio.
 ETC_20150317_001476	Il Team non esiste 
 ETC_20150317_001477	{S18}{ol}{#ffffcc}Il Personaggio non esiste.
 ETC_20150317_001478	Non puoi giocare
-ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
+ETC_20150317_001479	{S18}{ol}{#ffffcc} Disconnesso dal Server
 ETC_20150317_001480	You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
 ETC_20150317_001481	You cannot obtain any more items. You have exceeded the maximum number of items allowed.
-ETC_20150317_001482	Your inventory is full
+ETC_20150317_001482	Il tuo inventario é pieno
 ETC_20150317_001483	This server is closed
 ETC_20150317_001484	This item cannot be equipped
 ETC_20150317_001485	[{Word}] is not allowed for use.
@@ -1652,10 +1652,10 @@ ETC_20150317_001651	{Year}/{Month}/{Day} - {Hour} ore {Min} minuti {Sec} secondi
 ETC_20150317_001652	Read more
 ETC_20150317_001653	You cannot change your equipment before picking up a thrown item.
 ETC_20150317_001654	{Month} {Day}
-ETC_20150317_001655	{Day}G
-ETC_20150317_001656	{Hour}O
-ETC_20150317_001657	{Min}M
-ETC_20150317_001658	{Sec}S
+ETC_20150317_001655	{Day}g
+ETC_20150317_001656	{Hour}o
+ETC_20150317_001657	{Min}m
+ETC_20150317_001658	{Sec}s
 ETC_20150317_001659	Please enter a title.
 ETC_20150317_001660	Learning
 ETC_20150317_001661	You must spend all your skill points before you can advance.
@@ -1687,16 +1687,16 @@ ETC_20150317_001686	The item was successfully enhanced
 ETC_20150317_001687	The item failed to enhance
 ETC_20150317_001688	Add to the above slot to enhance item
 ETC_20150317_001689	Enhance
-ETC_20150317_001690	Cancel Enhancement
+ETC_20150317_001690	Cancella Enhancement
 ETC_20150317_001691	Deposita
 ETC_20150317_001692	Re-enhance
-ETC_20150317_001693	Click an item to enhance
+ETC_20150317_001693	Clicca su un oggetto per incantarlo
 ETC_20150317_001694	Successo!!!
 ETC_20150317_001695	Fallito!!!
 ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	Place the item you want to enhance.
-ETC_20150317_001698	Card Enhancement
-ETC_20150317_001699	Gem Enhancement
+ETC_20150317_001698	Enhancement Carta
+ETC_20150317_001699	Enhancement Gemma
 ETC_20150317_001700	You can no longer equip it. 
 ETC_20150317_001701	Your equipment has been damaged as a penalty for dying.
 ETC_20150317_001702	Enhance
@@ -1704,27 +1704,27 @@ ETC_20150317_001703	{s18}{ol}If the enhancement of weapons above level {#ffffcc}
 ETC_20150317_001704	Use the {Auto_1} item to start crafting. Do you want to continue?
 ETC_20150317_001705	{@st42) When crafting
 ETC_20150317_001706	Your movement has canceled the crafting of the item.
-ETC_20150317_001707	Crafting Completed!
+ETC_20150317_001707	Crafting Completato!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
-ETC_20150317_001712	Weapon
-ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-handed Sword
-ETC_20150317_001715	Bow
-ETC_20150317_001716	Crossbow
-ETC_20150317_001717	One-handed Sword
-ETC_20150317_001718	Wand
+ETC_20150317_001711	Missione
+ETC_20150317_001712	Arma
+ETC_20150317_001713	Armatura
+ETC_20150317_001714	Spada a due mani
+ETC_20150317_001715	Arco
+ETC_20150317_001716	Balestra
+ETC_20150317_001717	Spada ad una mano
+ETC_20150317_001718	Bacchetta
 ETC_20150317_001719	Blunt
-ETC_20150317_001720	Other
-ETC_20150317_001721	Spear
-ETC_20150317_001722	Wand
+ETC_20150317_001720	Altro
+ETC_20150317_001721	Lancia
+ETC_20150317_001722	Bacchetta
 ETC_20150317_001723	{nl} Do you want to add a socket?
 ETC_20150317_001724	{nl} Do you want to extract this gem?
 ETC_20150317_001725	Would you like to create this item?
-ETC_20150317_001726	Material
-ETC_20150317_001727	Ring
+ETC_20150317_001726	Materiale
+ETC_20150317_001727	Anello
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items...
@@ -1896,7 +1896,7 @@ ETC_20150317_001895	Achievement
 ETC_20150317_001896	Mike
 ETC_20150317_001897	Mission
 ETC_20150317_001898	Other character
-ETC_20150317_001899	Cancel Participation
+ETC_20150317_001899	Annulla Partecipazione
 ETC_20150317_001900	{Auto_1} level
 ETC_20150317_001901	Final
 ETC_20150317_001902	PvP tournament is open.
@@ -2718,11 +2718,11 @@ ETC_20150317_002717	Freccia Sanguinante
 ETC_20150317_002718	Frecci Penetrante
 ETC_20150317_002719	Freccia Esplosiva
 ETC_20150317_002720	[Craftable]
-ETC_20150317_002721	Volonta'
+ETC_20150317_002721	Stamina
 ETC_20150317_002722	Attacco
 ETC_20150317_002723	Velocita' Attacco
 ETC_20150317_002724	Prob. Colpo Critico
-ETC_20150317_002725	Durabilita'
+ETC_20150317_002725	Durabilità
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Bel Colpo
 ETC_20150317_002728	Res. Colpi Critici
@@ -2749,11 +2749,11 @@ ETC_20150317_002748	Slashing
 ETC_20150317_002749	Striking
 ETC_20150317_002750	Increase Range
 ETC_20150317_002751	Increase range of Slashing
-ETC_20150317_002752	Attack Range
+ETC_20150317_002752	Range Attacco
 ETC_20150317_002753	Attack Angle
-ETC_20150317_002754	Block Rate
+ETC_20150317_002754	Prob. Blocco
 ETC_20150317_002755	Repeated Hit
-ETC_20150317_002756	Rear Attack Range
+ETC_20150317_002756	Range Attacco alle spalle
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Unavailable
@@ -2761,56 +2761,56 @@ ETC_20150317_002760	Attacco Colpi Critici
 ETC_20150317_002761	Difesa Colpi Critici
 ETC_20150317_002762	Scambiabile
 ETC_20150317_002763	Non Scambiabile
-ETC_20150317_002764	Potion Recovery Rate
+ETC_20150317_002764	Recupero Pozione
 ETC_20150317_002765	Recupero SP
 ETC_20150317_002766	Unable to sell
-ETC_20150317_002767	Fire Property Attack
-ETC_20150317_002768	Ice Property Attack
-ETC_20150317_002769	Poison Property Attack
-ETC_20150317_002770	Holy Property Attack
-ETC_20150317_002771	Dark Property Attack
-ETC_20150317_002772	Velocita' di movimento
+ETC_20150317_002767	Propietà Attacco Fuoco
+ETC_20150317_002768	Propietà Attacco Ghiaccio
+ETC_20150317_002769	Propietà Attacco Veleno
+ETC_20150317_002770	Propietà Attacco Holy
+ETC_20150317_002771	Propietà Attacco Oscuro
+ETC_20150317_002772	Velocità di movimento
 ETC_20150317_002773	Recupero HP 
 ETC_20150317_002774	Attack against Plant-type Targets
 ETC_20150317_002775	Attack against Beast-type Targets
 ETC_20150317_002776	Attack against Devil-type Targets
 ETC_20150317_002777	Attack against Mutant-type Targets
-ETC_20150317_002778	Wind Property Attack
-ETC_20150317_002779	Fire Property Resistance
-ETC_20150317_002780	Ice Property Resistance
-ETC_20150317_002781	Poison Property Resistance
-ETC_20150317_002782	Lightning Property Resistance
-ETC_20150317_002783	Holy Property Resistance
-ETC_20150317_002784	Dark Property Resistance
-ETC_20150317_002785	AoE Attack Ratio
-ETC_20150317_002786	AoE Defense Ratio
+ETC_20150317_002778	Propietà attacco Vento
+ETC_20150317_002779	Resistenza Fuoco
+ETC_20150317_002780	Resistenza Ghiaccio
+ETC_20150317_002781	Resistenza Veleno
+ETC_20150317_002782	Resistenza Luce
+ETC_20150317_002783	Resistenza Holy
+ETC_20150317_002784	Resistenza Oscurità
+ETC_20150317_002785	Prob. Attacco AoE 
+ETC_20150317_002786	Prob. Difesa AoE
 ETC_20150317_002787	2% chance of +300 additional damage when attacking
 ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
 ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
-ETC_20150317_002790	Lightning Property Attack
-ETC_20150317_002791	Knockback Power
+ETC_20150317_002790	Propietà Attacco Luce
+ETC_20150317_002791	Knockback
 ETC_20150317_002792	Attack against Small-type Targets
 ETC_20150317_002793	Attack against Medium-type Targets
 ETC_20150317_002794	Attack against Large-type Targets
-ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
-ETC_20150317_002797	Attack against Cloth Armor Targets
-ETC_20150317_002798	Attack against Leather Armor Targets
-ETC_20150317_002799	Attack against Plate Armor Targets
-ETC_20150317_002800	Attack against Ghost Armor Targets
-ETC_20150317_002801	Magic Penetration
+ETC_20150317_002795	Blocco
+ETC_20150317_002796	Blocco Penetrazione
+ETC_20150317_002797	Attacco contro Cloth Armor
+ETC_20150317_002798	Attacco contro Leather Armor 
+ETC_20150317_002799	Attacco contro Plate Armor
+ETC_20150317_002800	Attacco contro Ghost Armor
+ETC_20150317_002801	Penetrazione Magica
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
-ETC_20150317_002804	Speed
+ETC_20150317_002804	Velocità
 ETC_20150317_002805	Attack against Insect-type Targets
 ETC_20150317_002806	Earth Property Attack
 ETC_20150317_002807	Earth Property Resistance
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
-ETC_20150317_002810	Pierce Defense
-ETC_20150317_002811	Slash Defense
-ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
+ETC_20150317_002810	Difesa Pierce
+ETC_20150317_002811	Difesa Slash
+ETC_20150317_002812	Difesa Strike
+ETC_20150317_002813	Trasporto Peso Massimo
 ETC_20150317_002814	Very Easy
 ETC_20150317_002815	Easy
 ETC_20150317_002816	Normal
@@ -2905,45 +2905,45 @@ ETC_20150317_002904	Enter the Team Name you want to block.
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
-ETC_20150317_002908	Group Settings ??
+ETC_20150317_002908	Impostazioni Gruppo ??
 ETC_20150317_002909	Enter Memo
-ETC_20150317_002910	Group Settings
-ETC_20150317_002911	Friend Request
-ETC_20150317_002912	Your friend request has been sent.
-ETC_20150317_002913	New Group
-ETC_20150317_002914	Block
-ETC_20150317_002915	Remove Group
-ETC_20150317_002916	Change Group Name
-ETC_20150317_002917	Are you sure you want to delete this?
-ETC_20150317_002918	Unblock
-ETC_20150317_002919	The friend request was not sent.
+ETC_20150317_002910	Impostazioni Gruppo
+ETC_20150317_002911	Richiesta Amico
+ETC_20150317_002912	La tua richiesta d'amicizia é stata inviata.
+ETC_20150317_002913	Nuovo Gruppo
+ETC_20150317_002914	Blocca
+ETC_20150317_002915	Rimuovi Gruppo
+ETC_20150317_002916	Cambia Nome Gruppo
+ETC_20150317_002917	Sei sicuro di volerlo eliminare?
+ETC_20150317_002918	Sblocca
+ETC_20150317_002919	La richiesta amicizia non é stata inviata.
 ETC_20150317_002920	Initial payment
-ETC_20150317_002921	More Info
+ETC_20150317_002921	Più Info
 ETC_20150317_002922	Luogo
 ETC_20150317_002923	Rank
-ETC_20150317_002924	{From}{nl}wants to trade with you.
-ETC_20150317_002925	The trade request has been declined.
-ETC_20150317_002926	The trade has been canceled.
-ETC_20150317_002927	The trade was successful.
-ETC_20150317_002928	Sent a trade request to {To}.
+ETC_20150317_002924	{From}{nl}Vuole commerciare con te.
+ETC_20150317_002925	La richiesta é stata declinata.
+ETC_20150317_002926	Lo scambio é stato annullato.
+ETC_20150317_002927	Lo scambio é stato un successo.
+ETC_20150317_002928	Manda una richiesta di commercio a {To}.
 ETC_20150317_002929	No save point specified
-ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0% durability.
+ETC_20150317_002930	Hai un oggetto con il 30% durabilità rimasta.
+ETC_20150317_002931	Hai un oggetto con lo 0% durabilità.
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
 ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
 ETC_20150317_002935	The field boss will appear in a while
 ETC_20150317_002936	This is a preparation function.
-ETC_20150317_002937	{@st59} Share this quest with your party members
-ETC_20150317_002938	{@st59} This quest is currently shown to party members
-ETC_20150317_002939	{Name}'s Quest
-ETC_20150317_002940	Searching...
-ETC_20150317_002941	Match found.
-ETC_20150317_002942	Waiting for entry
+ETC_20150317_002937	{@st59} Condividi questa missione con il Gruppo
+ETC_20150317_002938	{@st59} Questa missione é mostrata attualmente in Gruppo
+ETC_20150317_002939	Missione di {Name} 
+ETC_20150317_002940	Ricerca...
+ETC_20150317_002941	Match trovato.
+ETC_20150317_002942	In attesa per entrare
 ETC_20150317_002943	Moving
-ETC_20150317_002944	Game in progress
-ETC_20150317_002945	PvP Shop
-ETC_20150317_002946	Size
+ETC_20150317_002944	Gioco in progresso
+ETC_20150317_002945	Negozio PvP
+ETC_20150317_002946	Dimensione
 ETC_20150317_002947	Defense type
 ETC_20150317_002948	Element attributes
 ETC_20150317_002949	Rating
@@ -3006,7 +3006,7 @@ ETC_20150317_003005	You found the Archaeologist's Token!
 ETC_20150317_003006	Did not find anything.
 ETC_20150317_003007	Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
 ETC_20150317_003008	You do not have enough tombstone pieces.
-ETC_20150317_003009	Quest completed!
+ETC_20150317_003009	Missione Completata!
 ETC_20150317_003010	Tried to open the box but couldn't.
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
@@ -3117,7 +3117,7 @@ ETC_20150317_003116	Monument leading to the second floor appeared
 ETC_20150317_003117	Monument leading to the second floor appeared {nl}
 ETC_20150317_003118	Protect the group leader!
 ETC_20150317_003119	Stop them!
-ETC_20150317_003120	Help!
+ETC_20150317_003120	Aiuto!
 ETC_20150317_003121	Where did they come from??
 ETC_20150317_003122	Ugh!
 ETC_20150317_003123	Watch out for the monsters.
@@ -3136,7 +3136,7 @@ ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
 ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
+ETC_20150317_003139	Annulla
 ETC_20150317_003140	Can be traded right away through instant shop
 ETC_20150317_003141	Opening lock
 ETC_20150317_003142	Empty box
@@ -4317,14 +4317,14 @@ ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
 ETC_20150317_004318	Total Price: {Auto_1}
 ETC_20150317_004319	Learn
-ETC_20150317_004320	{@st42b} Re-buy
-ETC_20150317_004321	{@st42b} Remove permanently
-ETC_20150317_004322	{@st42b} Cancel
-ETC_20150317_004323	 Circle
+ETC_20150317_004320	{@st42b} Ri-compra
+ETC_20150317_004321	{@st42b} Rimuovi
+ETC_20150317_004322	{@st42b} Annulla
+ETC_20150317_004323	 Rango
 ETC_20150317_004324	Do you want to level up your class?
 ETC_20150317_004325	Do you want to learn a class?
 ETC_20150317_004326	Guest Book
-ETC_20150317_004327	Friends
+ETC_20150317_004327	Amici
 ETC_20150317_004328	Private Shop
 ETC_20150317_004329	Request Purchase
 ETC_20150317_004330	Item Trading
@@ -4336,16 +4336,16 @@ ETC_20150317_004335	's Purchase Request
 ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
 ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
-ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
-ETC_20150317_004340	{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance, Maximum Carry Weight{/}
-ETC_20150317_004342	{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
+ETC_20150317_004339	Richiesti iCoin.{nl}Sei sicuro di resettare?
+ETC_20150317_004340	{@st59} Aumenta in Attacco Fisico e Attacco Critici{/}
+ETC_20150317_004341	{@st59} Aumenta HP, Recupero HP, Resistenza Critci, Trasporto Peso massimo{/}
+ETC_20150317_004342	{@st59} Aumento in Danno Magico e Blocco Penetrazione{/}
+ETC_20150317_004343	{@st59} Aumenta Bel Colpo,Evasione e Prob. Critico {/}
 ETC_20150317_004344	] Do you want to use this card?
-ETC_20150317_004345	Distance
-ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
+ETC_20150317_004345	Distanza
+ETC_20150317_004346	{s16}{ol} Difesa {/}{/}{/}{nl}{s18}{ol}
 ETC_20150317_004347	{s16}{ol} Race {/}{/}
-ETC_20150317_004348	{s16}{ol} Defense {/}{/}{/}{s16}{ol}
+ETC_20150317_004348	{s16}{ol} Difesa {/}{/}{/}{s16}{ol}
 ETC_20150317_004349	{@s16}{ol}{Auto_1} and {a VIEW_LIKERS {Auto_2}}{ul}{#8888FF}{Auto_3} {/}{/}{/} like {/}
 ETC_20150317_004350	{a OPEN_ACHIEVE 0}{#050505}{s24}[{Auto_1}]{nl}{s20} achievement obtained.{/}{/}
 ETC_20150317_004351	There is no information.
@@ -4364,7 +4364,7 @@ ETC_20150317_004363	{@st42b} This name is already taken{/}
 ETC_20150317_004364	{@st42b} Movement {/}
 ETC_20150317_004365	{@st42b} My character's movement {/}
 ETC_20150317_004366	{@st42b} NPC Placement {/}
-ETC_20150317_004367	{@st42b} Cancel {/}
+ETC_20150317_004367	{@st42b} Annulla {/}
 ETC_20150317_004368	{@st42b} Change the angle {/}
 ETC_20150317_004369	{@st42b} Delete Anchor {/}
 ETC_20150317_004370	{@st42b} Appoint Range{/}
@@ -4377,11 +4377,11 @@ ETC_20150317_004376	Remove fixed skills
 ETC_20150317_004377	{@st42b} Drag a zen type {/}
 ETC_20150317_004378	Menù
 ETC_20150317_004379	Change the number
-ETC_20150317_004380	Damage MIN
-ETC_20150317_004381	Damage MAX
+ETC_20150317_004380	Danno MIN
+ETC_20150317_004381	Danno MAX
 ETC_20150317_004382	The number has now learned abilities
-ETC_20150317_004383	Failed to collect.
-ETC_20150317_004384	Collected successfully.
+ETC_20150317_004383	Errore Collezione.
+ETC_20150317_004384	Collezionato con successo.
 ETC_20150317_004385	You are recovering with blessing of the items used by users.
 ETC_20150317_004386	Monsters becomes powerless due to the item used by users
 ETC_20150317_004387	[Debug]
@@ -4393,7 +4393,7 @@ ETC_20150317_004392	Advancement Quest of job.xml is not set up(None)
 ETC_20150317_004393	There's no socket or it's currently being used
 ETC_20150317_004394	Missing rank.
 ETC_20150317_004395	N/A
-ETC_20150317_004396	Obtained Attribute Point
+ETC_20150317_004396	Ottenuti Punti Attributi
 ETC_20150317_004397	The Golem was weakened by the effect of storm magic.
 ETC_20150317_004398	Nothing happened.
 ETC_20150317_004399	Processed Purification Stones
@@ -7347,20 +7347,20 @@ ETC_20150317_007347	Use Sorcerer Attributes
 ETC_20150317_007348	Use Necromancer Attributes
 ETC_20150317_007349	Use Doppelsoeldner Attributes
 ETC_20150317_007350	Use Chronomancer Attributes
-ETC_20150317_007351	Attack +%d
-ETC_20150317_007352	Critical Hit Rating +%d
+ETC_20150317_007351	Attacco +%d
+ETC_20150317_007352	Colpo Critico Rating +%d
 ETC_20150317_007353	STR +%d
 ETC_20150317_007354	DEX +%d
 ETC_20150317_007355	Stamina +%d
 ETC_20150317_007356	INT +%d
-ETC_20150317_007357	Critical Damage +%d
+ETC_20150317_007357	Danno Critico +%d
 ETC_20150317_007358	Max HP +%d
 ETC_20150317_007359	Max SP +%d
-ETC_20150317_007360	Accuracy +%d
-ETC_20150317_007361	Defense +%d
-ETC_20150317_007362	Defense +%d
-ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Evasion +%d
+ETC_20150317_007360	Bel Colpo +%d
+ETC_20150317_007361	Difesa +%d
+ETC_20150317_007362	Difesa +%d
+ETC_20150317_007363	Resistenza Danno Critico +%d
+ETC_20150317_007364	Evasione +%d
 ETC_20150317_007365	Devil-type +%d
 ETC_20150317_007366	Devil-type Resistance +%d
 ETC_20150317_007367	Plant-type +%d
@@ -7369,26 +7369,26 @@ ETC_20150317_007369	Mutant-type +%d
 ETC_20150317_007370	Mutant-type Resistance +%d
 ETC_20150317_007371	Beast-type +%d
 ETC_20150317_007372	Beast-type Resistance +%d
-ETC_20150317_007373	Pierce Damage +%d
-ETC_20150317_007374	Pierce Resistance +%d
-ETC_20150317_007375	Slash Damage +%d
-ETC_20150317_007376	Slash Resistance +%d
-ETC_20150317_007377	Strike Damage +%d
-ETC_20150317_007378	Strike Resistance +%d
-ETC_20150317_007379	Fire Damage +%d
-ETC_20150317_007380	Fire Resistance +%d
-ETC_20150317_007381	Ice Damage +%d
-ETC_20150317_007382	Ice Resistance +%d
-ETC_20150317_007383	Wind Damage +%d
-ETC_20150317_007384	Wind Resistance +%d
+ETC_20150317_007373	Danno Pierce +%d
+ETC_20150317_007374	Resistenza Pierce +%d
+ETC_20150317_007375	Danno Slash +%d
+ETC_20150317_007376	Resistenza Slash +%d
+ETC_20150317_007377	Danno Strike +%d
+ETC_20150317_007378	Resistenza Strike +%d
+ETC_20150317_007379	Danno Fuoco +%d
+ETC_20150317_007380	Resistenza Fuoco +%d
+ETC_20150317_007381	Danno Ghiaccio +%d
+ETC_20150317_007382	Resistenza Ghiaccio +%d
+ETC_20150317_007383	Danno Vento +%d
+ETC_20150317_007384	Resistenza Vento +%d
 ETC_20150317_007385	Damage over Time +%d
 ETC_20150317_007386	Damage over Time Resistance +%d
-ETC_20150317_007387	Poison Damage +%d
-ETC_20150317_007388	Poison Resistance +%d
-ETC_20150317_007389	Magic Damage +%d
-ETC_20150317_007390	Magic Resistance +%d
-ETC_20150317_007391	Dark Damage +%d
-ETC_20150317_007392	Dark Resistance +%d
+ETC_20150317_007387	Danno Veleno +%d
+ETC_20150317_007388	Resistenza Veleno +%d
+ETC_20150317_007389	Danno Magico +%d
+ETC_20150317_007390	Resistenza Magica +%d
+ETC_20150317_007391	Danno Oscurità +%d
+ETC_20150317_007392	Resistenza Oscurità +%d
 ETC_20150317_007393	I_force011_green #head
 ETC_20150317_007394	Vubbe Hunting
 ETC_20150317_007395	Field Boss hunting
@@ -8765,11 +8765,11 @@ ETC_20150317_008765	3D Monster death time
 ETC_20150317_008766	Die-in-place
 ETC_20150317_008767	Death Animation
 ETC_20150317_008768	Keyboard navigation Tip
-ETC_20150317_008769	Use the arrow keys to move your character.
+ETC_20150317_008769	Usa le freccie direzionali per muoverti.
 ETC_20150317_008770	Jump Tip
-ETC_20150317_008771	Press X to jump. Some attacks can be avoided by jumping.
+ETC_20150317_008771	Premi X per saltare. Alcuni attacchi possono essere schivati.
 ETC_20150317_008772	Attack Tip
-ETC_20150317_008773	Press Z to attack.
+ETC_20150317_008773	Premi Z per attaccare.
 ETC_20150317_008774	STR Stat Tip
 ETC_20150317_008775	The STR stat increases your physical damage and critical damage. 
 ETC_20150317_008776	CON Stat Tip
@@ -8781,11 +8781,11 @@ ETC_20150317_008781	The SPR stat increases your max SP and SP recovery rate.
 ETC_20150317_008782	DEX Stat Tip
 ETC_20150317_008783	The DEX stat increases your accuracy, critical rate and evasion.
 ETC_20150317_008784	Continuous Attack Tip
-ETC_20150317_008785	Hold down Z to attack continuously.
+ETC_20150317_008785	Tieni premuto Z per attaccare continuamente.
 ETC_20150317_008786	Stamina Tip
-ETC_20150317_008787	You will stop running when your STA has reached 0.
+ETC_20150317_008787	Ti muoverai lentamente se la tua STA raggiunge lo 0.
 ETC_20150317_008788	Stamina Recovery Tip
-ETC_20150317_008789	Destroy Tree Roots Crystals in fields or use Stamina Pills to recover your STA.
+ETC_20150317_008789	Distruggi i Tree Roots Crystals nei campi o usa Stamina Pills per recuperare STA.
 ETC_20150317_008790	Overkill Tip
 ETC_20150317_008791	When the monster is the same level and attack damage is twice the monster's HP, overkill is triggered and you earn bonus EXP.
 ETC_20150317_008792	Rest Mode Tip
@@ -12195,7 +12195,7 @@ ETC_20150714_012196	Per 1 trade
 ETC_20150714_012197	Per 1 whisper
 ETC_20150714_012198	Per 1 Group/Party Chat
 ETC_20150714_012199	Per 1 party matching rejection (not used)
-ETC_20150714_012200	Cancel after Like
+ETC_20150714_012200	Annulla dopo il Like
 ETC_20150714_012201	Quickly withdraw after entering the party (has not been used)
 ETC_20150714_012202	Has good party members (has not been used)
 ETC_20150714_012203	Has bad party members (has not been used)
@@ -12655,30 +12655,30 @@ ETC_20150714_012656	Another player is holding onto the object
 ETC_20150714_012657	Event Requirement
 ETC_20150714_012658	It is already in progress. Click on Cancel if you want it to stop.
 ETC_20150714_012659	This item that you have added to craft is enhanced. Are you sure you want to use it as material?
-ETC_20150714_012660	Lightning Property
-ETC_20150714_012661	Poison Property
-ETC_20150714_012662	Fire Property
-ETC_20150714_012663	Earth Property
-ETC_20150714_012664	Ice Property
-ETC_20150714_012665	Dark Property
-ETC_20150714_012666	Gender Property
-ETC_20150714_012667	Lodge theme changed.
+ETC_20150714_012660	Propietà Luce
+ETC_20150714_012661	Propietà Veleno
+ETC_20150714_012662	Propietà Fuoco
+ETC_20150714_012663	Propietà Terra
+ETC_20150714_012664	Propietà Ghiaccio
+ETC_20150714_012665	Propietà Oscurità
+ETC_20150714_012666	Propietà Genere
+ETC_20150714_012667	Sfondo Lodge cambiato.
 ETC_20150714_012668	Like!
-ETC_20150714_012669	Cancel Like
+ETC_20150714_012669	Annulla Like
 ETC_20150714_012670	The other party rejected 
-ETC_20150714_012671	Not enough party members (%d/%d)
+ETC_20150714_012671	Non ci sono membri del gruppo (%d/%d)
 ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
-ETC_20150714_012674	{Killer} defeated {Killee}
-ETC_20150714_012675	{Killee} was defeated by {Killer}
-ETC_20150714_012676	Spectate ({PC})
-ETC_20150714_012677	Are you going to watch this game?
-ETC_20150714_012678	Buy Point
+ETC_20150714_012674	{Killer} Ha sconfitto {Killee}
+ETC_20150714_012675	{Killee} è stato sconfitto da {Killer}
+ETC_20150714_012676	Osserva ({PC})
+ETC_20150714_012677	Vuoi osservare questo match?
+ETC_20150714_012678	Compra Punti
 ETC_20150714_012679	The name of the party is either too long or too short.
 ETC_20150714_012680	The party of {FamilyName}
-ETC_20150714_012681	Party#
-ETC_20150714_012682	Enter Party Name
-ETC_20150714_012683	The Party Name already exists.
+ETC_20150714_012681	Gruppo#
+ETC_20150714_012682	Inserisci un nome Gruppo
+ETC_20150714_012683	Il nome Gruppo già esiste.
 ETC_20150714_012684	Enter Party description.
 ETC_20150714_012685	You discovered nothing
 ETC_20150714_012686	You've matched Lydia Schaffen's tombstone fragments{nl}Let's read the tombstone again
@@ -15814,10 +15814,10 @@ ETC_20151016_015815	Cannoneer Advancement
 ETC_20151016_015816	Musketeer Advancement
 ETC_20151016_015817	Plague Doctor Advancement
 ETC_20151016_015818	Kabbalist Advancement
-ETC_20151016_015819	By Grade
-ETC_20151016_015820	By Weight
-ETC_20151016_015821	By Price
-ETC_20151016_015822	By Name
+ETC_20151016_015819	Per Grado
+ETC_20151016_015820	Per Peso
+ETC_20151016_015821	Per Prezzo
+ETC_20151016_015822	Per Nome
 ETC_20151016_015823	Hidden Pillar
 ETC_20151016_015824	Kedoran Merchant Alliance Benefits!
 ETC_20151016_015825	Already detected
@@ -24176,20 +24176,20 @@ ETC_20160811_024178	Stage 29 is about to start!{nl}Protect the Divine Torch for 
 ETC_20160811_024179	Uphill Defense Stage 29
 ETC_20160811_024180	Stage 30 is about to start!{nl}Protect the Divine Torch for 40 seconds.
 ETC_20160811_024181	Uphill Defense Stage 30
-ETC_20160811_024182	Mission Success : Will return in 60 seconds
-ETC_20160811_024183	Mission Success : Will return to the original zone in 60 seconds
-ETC_20160811_024184	Divine Torch - 80% HP
-ETC_20160811_024185	Divine Torch - 50% HP
-ETC_20160811_024186	Divine Torch - 30% HP
-ETC_20160811_024187	Divine Torch - 10% HP
+ETC_20160811_024182	Missione Completata : Ritorno in 60 secondi
+ETC_20160811_024183	Missione Completata : Ritorno alla zona di partenza in 60 secondi
+ETC_20160811_024184	Torcia Divina - 80% HP
+ETC_20160811_024185	Torcia Divina - 50% HP
+ETC_20160811_024186	Torcia Divina - 30% HP
+ETC_20160811_024187	Torcia Divina - 10% HP
 ETC_20160811_024188	Mission Failed : Will return in 30 seconds
 ETC_20160811_024189	Orb of Fire
 ETC_20160811_024190	The Boss Monster will appear soon!
-ETC_20160811_024191	Stage 5 is about to start!{nl}Protect the Divine Torch for 60 seconds.
-ETC_20160811_024192	Stage 10 is about to start!{nl}Protect the Divine Torch for 90 seconds.
-ETC_20160811_024193	You have entered the Earth Tower Lolopanther Area
+ETC_20160811_024191	Stage 5 è cominciato!{nl}Proteggi la Torcia Divina per 60 secondi.
+ETC_20160811_024192	Stage 10 è cominciato!{nl}Proteggi la Torcia Divina per 90 secondi.
+ETC_20160811_024193	Sei entrato nella Earth Tower Lolopanther Area
 ETC_20160811_024194	Entering Earth Tower Lolopanther Area
-ETC_20160811_024195	You have completed all objectives in the Earth Tower Lolopanther Area{nl}You will return to the Istora Ruins in 120 seconds
+ETC_20160811_024195	Hai completato tutti gli obietti nella Earth Tower Lolopanther Area{nl}Ritornerai ad Istora Ruins in 120 secondi
 ETC_20160811_024196	The monsters are reacting to the Black Crystal's energy!
 ETC_20160811_024197	The Black Crystal is emitting energy once again!
 ETC_20160811_024198	The Black Crystal is emitting more energy than before!
